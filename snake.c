@@ -5,7 +5,7 @@
 #include <emscripten.h>
 #include <emscripten/html5.h>
 
-#define WIDTH 40
+#define WIDTH 50
 #define HEIGHT 20
 #define MAX_LENGTH 100
 
